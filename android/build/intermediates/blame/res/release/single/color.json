@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "/Users/mac/projects/sbdt1/node_modules/react-native-payments/android/build/intermediates/res/merged/release/color/abc_btn_colored_text_material.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/94ffaf3d6d2d9bb8fedd53b8f3ae915f/res/color/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/mac/projects/sbdt1/node_modules/react-native-payments/android/build/intermediates/res/merged/release/color/abc_btn_colored_borderless_text_material.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/94ffaf3d6d2d9bb8fedd53b8f3ae915f/res/color/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/mac/projects/sbdt1/node_modules/react-native-payments/android/build/intermediates/res/merged/release/color/common_google_signin_btn_tint.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/4ca7d8ad4133c8e81a822bd7178e005c/res/color/common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "/Users/mac/projects/sbdt1/node_modules/react-native-payments/android/build/intermediates/res/merged/release/color/abc_hint_foreground_material_dark.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/94ffaf3d6d2d9bb8fedd53b8f3ae915f/res/color/abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "/Users/mac/projects/sbdt1/node_modules/react-native-payments/android/build/intermediates/res/merged/release/color/abc_tint_btn_checkable.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/94ffaf3d6d2d9bb8fedd53b8f3ae915f/res/color/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/mac/projects/sbdt1/node_modules/react-native-payments/android/build/intermediates/res/merged/release/color/abc_primary_text_material_dark.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/94ffaf3d6d2d9bb8fedd53b8f3ae915f/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/mac/projects/sbdt1/node_modules/react-native-payments/android/build/intermediates/res/merged/release/color/abc_tint_switch_track.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/94ffaf3d6d2d9bb8fedd53b8f3ae915f/res/color/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/mac/projects/sbdt1/node_modules/react-native-payments/android/build/intermediates/res/merged/release/color/common_google_signin_btn_text_light.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/4ca7d8ad4133c8e81a822bd7178e005c/res/color/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/mac/projects/sbdt1/node_modules/react-native-payments/android/build/intermediates/res/merged/release/color/abc_secondary_text_material_dark.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/94ffaf3d6d2d9bb8fedd53b8f3ae915f/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/mac/projects/sbdt1/node_modules/react-native-payments/android/build/intermediates/res/merged/release/color/wallet_secondary_text_holo_dark.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-wallet-11.0.4.aar/87f4568af9952e1e8dd1e817423f6abd/res/color/wallet_secondary_text_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/mac/projects/sbdt1/node_modules/react-native-payments/android/build/intermediates/res/merged/release/color/abc_tint_spinner.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/94ffaf3d6d2d9bb8fedd53b8f3ae915f/res/color/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/mac/projects/sbdt1/node_modules/react-native-payments/android/build/intermediates/res/merged/release/color/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/94ffaf3d6d2d9bb8fedd53b8f3ae915f/res/color/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/mac/projects/sbdt1/node_modules/react-native-payments/android/build/intermediates/res/merged/release/color/abc_hint_foreground_material_light.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/94ffaf3d6d2d9bb8fedd53b8f3ae915f/res/color/abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "/Users/mac/projects/sbdt1/node_modules/react-native-payments/android/build/intermediates/res/merged/release/color/switch_thumb_material_light.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/94ffaf3d6d2d9bb8fedd53b8f3ae915f/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/Users/mac/projects/sbdt1/node_modules/react-native-payments/android/build/intermediates/res/merged/release/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/94ffaf3d6d2d9bb8fedd53b8f3ae915f/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Users/mac/projects/sbdt1/node_modules/react-native-payments/android/build/intermediates/res/merged/release/color/switch_thumb_material_dark.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/94ffaf3d6d2d9bb8fedd53b8f3ae915f/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/Users/mac/projects/sbdt1/node_modules/react-native-payments/android/build/intermediates/res/merged/release/color/abc_tint_default.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/94ffaf3d6d2d9bb8fedd53b8f3ae915f/res/color/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/mac/projects/sbdt1/node_modules/react-native-payments/android/build/intermediates/res/merged/release/color/common_google_signin_btn_text_dark.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/4ca7d8ad4133c8e81a822bd7178e005c/res/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/mac/projects/sbdt1/node_modules/react-native-payments/android/build/intermediates/res/merged/release/color/abc_primary_text_material_light.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/94ffaf3d6d2d9bb8fedd53b8f3ae915f/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/mac/projects/sbdt1/node_modules/react-native-payments/android/build/intermediates/res/merged/release/color/abc_secondary_text_material_light.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/94ffaf3d6d2d9bb8fedd53b8f3ae915f/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/mac/projects/sbdt1/node_modules/react-native-payments/android/build/intermediates/res/merged/release/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/94ffaf3d6d2d9bb8fedd53b8f3ae915f/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/Users/mac/projects/sbdt1/node_modules/react-native-payments/android/build/intermediates/res/merged/release/color/abc_tint_seek_thumb.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/94ffaf3d6d2d9bb8fedd53b8f3ae915f/res/color/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/mac/projects/sbdt1/node_modules/react-native-payments/android/build/intermediates/res/merged/release/color/abc_search_url_text.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/94ffaf3d6d2d9bb8fedd53b8f3ae915f/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/Users/mac/projects/sbdt1/node_modules/react-native-payments/android/build/intermediates/res/merged/release/color/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/94ffaf3d6d2d9bb8fedd53b8f3ae915f/res/color/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/mac/projects/sbdt1/node_modules/react-native-payments/android/build/intermediates/res/merged/release/color/wallet_primary_text_holo_light.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/play-services-wallet-11.0.4.aar/87f4568af9952e1e8dd1e817423f6abd/res/color/wallet_primary_text_holo_light.xml"
+    },
+    {
+        "merged": "/Users/mac/projects/sbdt1/node_modules/react-native-payments/android/build/intermediates/res/merged/release/color/abc_tint_edittext.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/94ffaf3d6d2d9bb8fedd53b8f3ae915f/res/color/abc_tint_edittext.xml"
+    }
+]

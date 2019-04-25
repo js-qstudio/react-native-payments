@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/mac/projects/sbdt1/node_modules/react-native-payments/android/build/intermediates/res/merged/release/layout-watch-v20/abc_alert_dialog_title_material.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/94ffaf3d6d2d9bb8fedd53b8f3ae915f/res/layout-watch-v20/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/mac/projects/sbdt1/node_modules/react-native-payments/android/build/intermediates/res/merged/release/layout-watch-v20/abc_alert_dialog_button_bar_material.xml",
+        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/94ffaf3d6d2d9bb8fedd53b8f3ae915f/res/layout-watch-v20/abc_alert_dialog_button_bar_material.xml"
+    }
+]
