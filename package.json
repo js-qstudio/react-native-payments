@@ -1,39 +1,41 @@
 {
-  "_from": "https://npm.jig-san.me/SBDT/react-native-payments",
-  "_id": "react-native-payments@0.4.0",
+  "_args": [
+    [
+      "git://github.com/nabilfreeman/react-native-payments.git#package-json-hack",
+      "/Users/mac/projects/sbdt"
+    ]
+  ],
+  "_from": "git://github.com/nabilfreeman/react-native-payments.git#package-json-hack",
+  "_id": "react-native-payments@git://github.com/nabilfreeman/react-native-payments.git#f440aa3d87a8be2c5f5aa6e3e342e4e8dcc53f5c",
   "_inBundle": false,
-  "_integrity": "sha512-t1CAb5aY9nHhr6z/crTRm3hFIjzyax3keFU90TiuSyLQ1wKJFRElROPyXHZUxxykhySHC6ZZ+I4hRA0qKUkR2g==",
+  "_integrity": "",
   "_location": "/react-native-payments",
   "_phantomChildren": {},
   "_requested": {
-    "type": "remote",
-    "raw": "react-native-payments@https://npm.jig-san.me/SBDT/react-native-payments",
-    "name": "react-native-payments",
-    "escapedName": "react-native-payments",
-    "rawSpec": "https://npm.jig-san.me/SBDT/react-native-payments",
-    "saveSpec": "https://npm.jig-san.me/SBDT/react-native-payments",
-    "fetchSpec": "https://npm.jig-san.me/SBDT/react-native-payments"
+    "type": "git",
+    "raw": "git://github.com/nabilfreeman/react-native-payments.git#package-json-hack",
+    "rawSpec": "git://github.com/nabilfreeman/react-native-payments.git#package-json-hack",
+    "saveSpec": "git://github.com/nabilfreeman/react-native-payments.git#package-json-hack",
+    "fetchSpec": "git://github.com/nabilfreeman/react-native-payments.git",
+    "gitCommittish": "package-json-hack"
   },
   "_requiredBy": [
     "/"
   ],
-  "_resolved": "https://npm.jig-san.me/SBDT/react-native-payments",
-  "_shasum": "6cbb95b675c2fc9d4336663ec33cd889594746a8",
-  "_spec": "react-native-payments@https://npm.jig-san.me/SBDT/react-native-payments",
-  "_where": "/Users/mac/projects/sbdt1",
+  "_resolved": "git://github.com/nabilfreeman/react-native-payments.git#f440aa3d87a8be2c5f5aa6e3e342e4e8dcc53f5c",
+  "_spec": "git://github.com/nabilfreeman/react-native-payments.git#package-json-hack",
+  "_where": "/Users/mac/projects/sbdt",
   "author": {
     "name": "Naoufal Kadhom"
   },
   "bugs": {
     "url": "https://github.com/naoufal/react-native-payments/issues"
   },
-  "bundleDependencies": false,
   "dependencies": {
     "es6-error": "^4.0.2",
     "uuid": "^3.1.0",
     "validator": "^7.0.0"
   },
-  "deprecated": false,
   "devDependencies": {
     "babel-jest": "20.0.3",
     "babel-preset-react-native": "2.0.0",
@@ -60,8 +62,8 @@
   "license": "MIT",
   "name": "react-native-payments",
   "peerDependencies": {
-    "react": "~15.4.0-rc.4",
-    "react-native": "0.41.0"
+    "react": ">=15",
+    "react-native": ">=0.41"
   },
   "repository": {
     "type": "git",
@@ -74,5 +76,5 @@
     "run:web": "cd examples/web && yarn run:web",
     "test": "jest"
   },
-  "version": "0.4.0"
+  "version": "0.7.2"
 }
